@@ -1,1 +1,1 @@
-web: gunicorn django-notes.wsgi
+web: gunicorn api.wsgi
